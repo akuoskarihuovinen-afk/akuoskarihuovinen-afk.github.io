@@ -1,0 +1,79 @@
+/* Reset and Base Styles */
+
+
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.profile-image {
+  width: 200px;
+  height: auto;
+}
+
+div {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid antiquewhite;
+  margin: 20px;
+}
+
+nav {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid antiquewhite;
+
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.nav-box {
+  background-color: white;
+  padding: 15px 25px;
+  border-radius: 5px;
+  border: 2px solid antiquewhite;
+  text-align: center;
+}
+
+.nav-box a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.nav-box:hover {
+  background-color: antiquewhite;
+}
+
+body {
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+footer {
+  background-color: aliceblue;
+  color: black;
+  padding: 20px;
+}
+.lakki-image {
+  width: 100px;
+  float: right;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+.intti-image {
+  width: 100px;
+  float: right;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+.lätkä-image {
+  width: 100px;
+  float: right;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+  
